@@ -1,0 +1,260 @@
+a, a.nc:hover {
+	color: #93A2B6;
+	text-decoration: none;
+}
+a:hover {
+	color: White;
+}
+a.nc {
+	color: White;
+	text-decoration: none;
+}
+body {
+	margin: 0px;
+	padding: 0px;
+	background-color: Black;
+	color: White;
+	font-family: Verdana, sans-serif;
+	font-size: 11px;
+	text-align: center;
+	height: 100%;
+	vertical-align: top;
+}
+form {
+	display: inline;
+}
+hr {
+	border: 1px outset #93A2B6;
+	color: #93A2B6;
+}
+img {
+	border: none;
+}
+input, textarea {
+	border: 1px solid Silver;
+	background-color: transparent;
+	color: White;
+	font-family: Verdana, sans-serif;
+	font-size: 11px;
+}
+input.check, img, img, input.check, input[type="checkbox"] {
+	border: none;
+	vertical-align: middle;
+}
+input.small_button {
+	width: 15px;
+}
+select {
+	font-family: Verdana, sans-serif;
+	font-size: 11px;
+}
+span.intern {
+	padding-right: 2px;
+	color: Yellow;
+}
+table {
+	color: White;
+	font-size: 11px;
+	text-align: center;
+}
+table.bg {
+	background-attachment: scroll;
+	background-image: url(images/bg.gif);
+	background-position: top;
+}
+table.main {
+	background-image: url(images/genesis_09.jpg);
+	background-position: top;
+	background-repeat: repeat-y;
+	height: 100%;
+}
+td.anti {
+	background-color: #A2F142;
+}
+td.att1 {
+	background-color: yellow;
+}
+td.att2 {
+	background-color: red;
+}
+td.back {
+	background-color: gray;
+}
+td.bau {
+	background-color: #0000B0;
+}
+td.evo {
+	background-color: Green;
+}
+td.hand {
+	background-color: #D2691E;
+}
+td.head {
+	padding: 3px;
+	background-image: url(images/head.jpg);
+	background-position: top;
+	background-attachment: scroll;
+	font-weight: bold;
+	text-align: center;
+}
+td.keim {
+	background-color: Lime;
+}
+td.lefth {
+	padding: 4px;
+	text-align: left;
+	vertical-align: middle;
+}
+td.leftsymb {
+	padding: 4px;
+	width: 150px;
+	text-align: left;
+}
+td.prod {
+	background-color: #909000;
+}
+td.spac {
+	background-color: transparent;
+	height: 14px;
+}
+td.spio {
+	background-color: #6495ED;
+}
+td.stao {
+	background-color: #DA70D6;
+}
+td.trans {
+	background-color: #BDB76B;
+}
+td.vert {
+	background-color: #5F9EA0;
+}
+tr, td {
+	vertical-align: top;
+}
+.amem {
+	padding: 4px;
+	color: #00C5C8;
+}
+.boldc, .navi {
+	padding: 4px;
+	font-weight: bold;
+	text-align: center;
+}
+.boldl {
+	padding: 4px;
+	font-weight: bold;
+	text-align: left;
+}
+.boldr {
+	padding: 4px;
+	font-weight: bold;
+	text-align: right;
+}
+.center {
+	padding: 4px;
+	text-align: center;
+}
+.feind {
+	padding: 4px;
+	color: red;
+}
+.freund {
+	padding: 4px;
+	color: Lime;
+}
+.hl {
+	border-bottom: 1px solid #93A2B6;
+	border-top: 1px solid #93A2B6;
+	padding: 4px;
+	text-align: center;
+}
+.hr {
+	padding: 0px 4px 0px 4px;
+	text-align: center;
+}
+.ja {
+	color: Lime;
+}
+.left {
+	padding: 4px;
+	text-align: left;
+}
+.nachricht {
+	padding-bottom: 4px;
+	padding-left: 50px;
+	padding-right: 30px;
+	padding-top: 4px;
+	text-align: left;
+}
+.nav {
+	background-image: url(images/bg.jpg);
+	background-repeat: repeat-x;
+	font-weight: bold;
+	height: 24px;
+	vertical-align: middle;
+}
+.nein {
+	color: Red;
+}
+.nok {
+	padding: 4px;
+	color: #DAA520;
+}
+.right {
+	padding: 4px;
+	text-align: right;
+}
+.ueb {
+	padding: 0px 4px 4px 4px;
+	text-align: center;
+}
+#chat {
+	width: 400px;
+	font-size: 0.8em;
+	text-align: left;
+	height: 95px;
+	left: 5px;
+	position: absolute;
+	top: 5px;
+}
+#chat i {
+	cursor: pointer;
+}
+#chat input {
+	margin-top: 2px;
+}
+#chat ul {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+#chat_hilfe {
+	width: 400px;
+	margin-top: 18px;
+	padding-left: 3px;
+	background-attachment: scroll;
+	background-image: url(images/bg.gif);
+	background-position: top;
+	font-size: 1.2em;
+	text-align: left;
+	position: relative;
+}
+#chat_hilfe h3 {
+	padding: 3px;
+	margin-bottom: 3px;
+	margin-left: -3px;
+	background-attachment: scroll;
+	background-image: url(images/head_special.jpg);
+	background-position: top;
+	font-size: 1em;
+	font-weight: bold;
+	text-align: center;
+}
+#chatbox {
+	height: 75px;
+	overflow: hidden;
+	vertical-align: text-bottom;
+	overflow-x: hidden;
+	overflow-y: scroll;
+}
