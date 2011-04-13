@@ -1,5 +1,8 @@
 This is the sourcecode of the browsergame "Genesis".
+
 The code is highly insecure and should not be used in public environments.
+Many parts were created with no concept and nearly no experience in programming. So be careful and do not expect good code.
+
 You are welcome to use, extend and modify it in any ways.
 
 Since there is no install script, you have to write your own or create a mysql database and insert the sql file located at "sicher/genesis.sql".
